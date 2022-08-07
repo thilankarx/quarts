@@ -205,7 +205,7 @@ ul#why1 li {
 
 
 .process {
-    height: 900px;
+    height: 600px;
     display: flex;
     /* ai-content: center; */
 }
@@ -227,4 +227,33 @@ ul#why1 li {
     color: #272B3E;
     opacity: 1;
     margin-bottom: 30px;
+}
+
+.footer {
+    height: 400px;
+    background-color: #272B3E;
+}
+
+.fotter-title {
+    text-align: right;
+    font: normal normal 600 25px/33px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.footer-tag-line {
+    text-align: left;
+    font: normal normal normal 12px/20px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF !important;
+    opacity: 1;
+}
+
+.btn-footer {
+    width: 150px;
+    height: 47px;
+    color: #FFFFFF !important;;
+    background: transparent url('img/Group 3639.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
 }
