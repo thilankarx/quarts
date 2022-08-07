@@ -234,12 +234,13 @@ ul#why1 li {
     background-color: #272B3E;
 }
 
-.fotter-title {
-    text-align: right;
+.footer-title {
+    text-align: left;
     font: normal normal 600 25px/33px Poppins;
     letter-spacing: 0px;
     color: #FFFFFF;
     opacity: 1;
+    margin-bottom: 15px;
 }
 
 .footer-tag-line {
@@ -248,12 +249,41 @@ ul#why1 li {
     letter-spacing: 0px;
     color: #FFFFFF !important;
     opacity: 1;
+    margin-bottom: 15px;
 }
 
 .btn-footer {
     width: 150px;
     height: 47px;
-    color: #FFFFFF !important;;
+    color: #FFFFFF !important;
     background: transparent url('img/Group 3639.png') 0% 0% no-repeat padding-box;
     opacity: 1;
 }
+
+.footer-sub-title-2 {
+    text-align: left;
+    font: normal normal 600 18px/20px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+
+.footer-tag-line-2 {
+    text-align: left;
+    font: normal normal 300 12px/20px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+
+.footer-mobile {
+    text-align: left;
+    font: normal normal 300 12px/20px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+.follow{
+    
+}
+
